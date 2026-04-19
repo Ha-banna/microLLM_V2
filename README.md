@@ -11,13 +11,6 @@ A lightweight, high-performance **Character-Level Transformer** built from scrat
 
 ---
 
-## 🛠️ Technical Stack
-*   **Core:** Python 3.12, PyTorch
-*   **Infrastructure:** GCP (recommended for Vertex AI / Compute Engine), Docker
-*   **Optimization:** AdamW Optimizer, Cosine Learning Rate Decay, Layer Normalization
-
----
-
 ## 📈 Model Architecture
 The model follows the modern Transformer design:
 1.  **Token & Position Embeddings:** Character-level mapping with learned positional encoding.
