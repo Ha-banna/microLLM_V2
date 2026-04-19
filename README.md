@@ -1,7 +1,3 @@
-Creating a professional `README.md` is essential for any backend or machine learning project, especially for a Transformer-based LLM. Since your project is built with PyTorch and targets a high-performance backend environment (GCP/Cloud), this README highlights architectural strengths and deployment readiness.
-
----
-
 # microLLM_V2
 
 A lightweight, high-performance **Character-Level Transformer** built from scratch using **PyTorch**. This project implements a full Decoder-only architecture (similar to GPT) with Multi-Head Self-Attention, Feed-Forward networks, and Residual connections.
