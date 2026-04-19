@@ -63,13 +63,5 @@ The project includes a `.generate()` method that uses **Top-K sampling** or **Mu
 
 ---
 
-## ☁️ Deployment (CI/CD)
-For backend engineers looking to deploy this as an API:
-1.  **Containerize:** Use the provided (or create a) `Dockerfile`.
-2.  **Registry:** Push the image to **Google Container Registry (GCR)**.
-3.  **Orchestrate:** Deploy to **GKE (Google Kubernetes Engine)** using a high-availability configuration with GPU node pools.
-
----
-
 ## 📄 License
 MIT License - feel free to use this for your own experiments!
