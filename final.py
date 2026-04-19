@@ -8,7 +8,7 @@ torch.set_float32_matmul_precision('high')
 # hyper=parameters
 block_size = 64
 batch_size = 256
-training_loops = 5000
+training_loops = 1000
 n_embed = 600
 head_size = 16
 learning_rate = 3e-4
